@@ -1,6 +1,5 @@
 ## FOR PREVEIW CLICK ON THE BELOW LINK
-https://hotelqrcodeselforderingsystem.netlify.app/
-
+https://hotelqrcodeselforderingsystem.netlify.app
 
 
 # hotel QR code based self ordering system 
