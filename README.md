@@ -1,4 +1,4 @@
-# Project Bolt
+# hotel QR code based self ordering system 
 
 A modern web application built with TypeScript, Vite, and Tailwind CSS.
 
