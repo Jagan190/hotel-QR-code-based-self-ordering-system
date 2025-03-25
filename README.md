@@ -1,3 +1,8 @@
+## FOR PREVEIW CLICK ON THE BELOW LINK
+https://hotelqrcodeselforderingsystem.netlify.app/
+
+
+
 # hotel QR code based self ordering system 
 
 A modern web application built with TypeScript, Vite, and Tailwind CSS.
@@ -78,5 +83,4 @@ project/
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
-## FOR PREVEIW CLICK ON THE BELOW LINK
-https://hotelqrcodeselforderingsystem.netlify.app/
+
